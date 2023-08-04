@@ -1,0 +1,301 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nama": "Makanan"
+    },
+    {
+      "id": 2,
+      "nama": "Minuman"
+    },
+    {
+      "id": 3,
+      "nama": "Cemilan"
+    }
+  ],
+  "produk": [
+    {
+      "id": 1,
+      "kode": "K-001",
+      "nama": "Sate Taichan",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "sate-taichan.jpeg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 2,
+      "kode": "K-002",
+      "nama": "Nasi Goreng Telur",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "nasi-goreng-telur.jpeg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 3,
+      "kode": "K-003",
+      "nama": "Lontong Kari",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "lontong-kari.jpeg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 4,
+      "kode": "K-004",
+      "nama": "Spageti Aglio Olio",
+      "harga": 20000,
+      "is_ready": true,
+      "gambar": "spaghetti-aglio-olio.jpeg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 5,
+      "kode": "K-005",
+      "nama": "Nasi Bakar Ayam Kemangi",
+      "harga": 20000,
+      "is_ready": true,
+      "gambar": "nasi-bakar-ayam-kemangi.jpeg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 6,
+      "kode": "K-006",
+      "nama": "Bakmie",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "bakmie.jpeg",
+      "category": {
+        "id": 1,
+        "nama": "Makanan"
+      }
+    },
+    {
+      "id": 7,
+      "kode": "K-007",
+      "nama": "Kopi Gula Aren",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "kopi-gula-aren.png",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 8,
+      "kode": "K-008",
+      "nama": "Hazelnut Coffee",
+      "harga": 18000,
+      "is_ready": true,
+      "gambar": "hazelnut-coffee.jpeg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 9,
+      "kode": "K-009",
+      "nama": "Long Black Coffee",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "long-black-coffee.jpeg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 10,
+      "kode": "K-010",
+      "nama": "Red Velvet",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "red-velvet.jpeg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 11,
+      "kode": "K-011",
+      "nama": "Matcha Latte",
+      "harga": 18000,
+      "is_ready": true,
+      "gambar": "matcha-latte.jpeg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 12,
+      "kode": "K-012",
+      "nama": "Leci Mojito",
+      "harga": 18000,
+      "is_ready": true,
+      "gambar": "leci-mojito.jpeg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 13,
+      "kode": "K-013",
+      "nama": "Golden Sparkling",
+      "harga": 18000,
+      "is_ready": true,
+      "gambar": "golden-sparkling.jpeg",
+      "category": {
+        "id": 2,
+        "nama": "Minuman"
+      }
+    },
+    {
+      "id": 14,
+      "kode": "K-014",
+      "nama": "Pangsit 4 PCS",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "pangsit.jpeg",
+      "category": {
+        "id": 3,
+        "nama": "Cemilan"
+      }
+    },
+    {
+      "id": 15,
+      "kode": "K-015",
+      "nama": "Kentang Goreng",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "kentang-goreng.jpeg",
+      "category": {
+        "id": 3,
+        "nama": "Cemilan"
+      }
+    },
+    {
+      "id": 16,
+      "kode": "K-016",
+      "nama": "Pisang Keju Coklat",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "pisang-keju-coklat.jpeg",
+      "category": {
+        "id": 3,
+        "nama": "Cemilan"
+      }
+    },
+    {
+      "id": 17,
+      "kode": "K-017",
+      "nama": "Tahu Lada Garam",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "tahu-lada-garam.png",
+      "category": {
+        "id": 3,
+        "nama": "Cemilan"
+      }
+    },
+    {
+      "id": 18,
+      "kode": "K-018",
+      "nama": "Dimsum 4 PCS",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "dimsum.jpeg",
+      "category": {
+        "id": 3,
+        "nama": "Cemilan"
+      }
+    }
+  ],
+  "keranjang": [
+    {
+      "jumlah": 1,
+      "total_harga": 18000,
+      "produk": {
+        "id": 8,
+        "kode": "K-008",
+        "nama": "Hazelnut Coffee",
+        "harga": 18000,
+        "is_ready": true,
+        "gambar": "hazelnut-coffee.jpeg",
+        "category": {
+          "id": 2,
+          "nama": "Minuman"
+        }
+      },
+      "id": 1
+    }
+  ],
+  "pesanan": [
+    {
+      "total_bayar": 15000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 15000,
+          "produk": {
+            "id": 7,
+            "kode": "K-007",
+            "nama": "Kopi Gula Aren",
+            "harga": 15000,
+            "is_ready": true,
+            "gambar": "kopi-gula-aren.png",
+            "category": {
+              "id": 2,
+              "nama": "Minuman"
+            }
+          },
+          "id": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "total_bayar": 18000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 18000,
+          "produk": {
+            "id": 8,
+            "kode": "K-008",
+            "nama": "Hazelnut Coffee",
+            "harga": 18000,
+            "is_ready": true,
+            "gambar": "hazelnut-coffee.jpeg",
+            "category": {
+              "id": 2,
+              "nama": "Minuman"
+            }
+          },
+          "id": 1
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
